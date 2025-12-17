@@ -1,7 +1,7 @@
-# Olá, meu nome é Samuel Belarmino 👋🏼
+# Hi, I'm Samuel Belarmino 👋🏼
 
 
-Sou desenvolvedor **Backend**, e amo em integrar **Cloud**, e **IA** nas minhas aplicações e sistemas.
+I am a Backend Developer, and I enjoy integrating *Cloud* and *AI* into my applications and systems.
 ---
 </br>
 
