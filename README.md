@@ -15,4 +15,4 @@ height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/m
 ---
 </br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelBelarmino&layout=compact&theme=transparent)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Belarmino&layout=compact&theme=transparent)
